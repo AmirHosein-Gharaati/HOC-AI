@@ -27,4 +27,4 @@ Data includes height, shoe(foot) size and weight. The machine uses decision tree
     
 
 # :)
-Special thanks to Shiraz university ACM for holding the conference and [jadi](https://github.com/jadijadi)(for code).
+Special thanks to Shiraz university ACM group for holding the conference and [jadi](https://github.com/jadijadi)(for code).
