@@ -1,7 +1,7 @@
 <div>
-<img src="https://hourofcode.com/us/en/images/hour-of-code-logo.png" width=300 height=300> 
-<img src="http://acm.shirazu.ac.ir/wp-content/uploads/2020/03/acm-pixcel-2.png" width=300 height=300>
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEc_KMOll6jjg/company-logo_200_200/0?e=2159024400&v=beta&t=sZyNZpTVSpHbQknZuLZEI8MAw6Noq_FfmsH-D63LpB4" width=300 height=300>
+<img src="https://hourofcode.com/us/en/images/hour-of-code-logo.png" width=100 height=100> 
+<img src="http://acm.shirazu.ac.ir/wp-content/uploads/2020/03/acm-pixcel-2.png" width=100 height=100>
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQEc_KMOll6jjg/company-logo_200_200/0?e=2159024400&v=beta&t=sZyNZpTVSpHbQknZuLZEI8MAw6Noq_FfmsH-D63LpB4" width=100 height=100>
 </div>
 
 # HOC-AI
