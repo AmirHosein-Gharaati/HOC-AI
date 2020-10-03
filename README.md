@@ -8,9 +8,9 @@
 Hour of Code AI sample code
 
 # Requirements
-This code is writtern in python3 programming language. Before you get started, make sure you have an IDE to run the code.
+This code is writtern in python3 programming language. Before you get started, make sure you have installed python3 to run the code:
 
-[Python](https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html) version 3 and higher(make sure python is added in your environment)
+[Python](https://www.ics.uci.edu/~pattis/common/handouts/pythoneclipsejava/python.html) download and install link(make sure python is added in your environment)
 
 
 sklearn library
